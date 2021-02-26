@@ -2,6 +2,15 @@
 
 這是我的第一個網站
 
+```C
+#include<stdio.h>
+int main()
+{
+  printf("Hello World\n");
+  return 0;
+ }
+```
+
 ## 自我介紹
 我的名字叫做孫昊廷
 
